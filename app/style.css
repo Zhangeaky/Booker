@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before,*:after{
+    box-sizing: inherit;
+}
+
+body, input{
+    font: menu;
+}
+h1{
+    color: rgb(95, 144, 236);
+}
+
+button{
+    content: inherit;
+}
